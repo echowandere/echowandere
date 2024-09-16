@@ -16,20 +16,4 @@ My Name is Matt, an aspiring AI Engineer. Ive only just started using Github so 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
-## GitHub Stats
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wanderer0074348&theme=cobalt"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wanderer0074348&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer0074348&hide=TeX&theme=cobalt"/>
-</div>
-<br>
-<div align="center">
-  <a href="https://app.daily.dev/wanderer0074348"><img src="https://api.daily.dev/devcards/v2/g4ROZsdf00kczYJ8zNAFY.png?r=l1z" width="356" alt="Tanay Matta's Dev Card"/></a>
-</div>
+
